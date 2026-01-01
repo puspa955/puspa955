@@ -41,22 +41,6 @@ I'm a **Frontend Developer** who has been creating **responsive, performant, and
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=puspa955&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=puspa955&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=puspa955&theme=tokyonight&hide_border=true&background=0D1117)
-
-![](https://komarev.com/ghpvc/?username=puspa955&color=blueviolet&style=for-the-badge)
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -77,7 +61,7 @@ I'm a **Frontend Developer** who has been creating **responsive, performant, and
 
 ### 📈 Profile Views
 
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=puspa955&color=blueviolet&style=for-the-badge)
 
 ---
 
