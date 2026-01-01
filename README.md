@@ -43,13 +43,10 @@ I'm a **Frontend Developer** who has been creating **responsive, performant, and
 
 ## 🤝 Let's Connect
 
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/puspa-limbu-72b82a1b3/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Y2MPjNYR)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:puspalimbu135@gmail.com)
 
-</div>
 
 ---
 
@@ -58,12 +55,6 @@ I'm a **Frontend Developer** who has been creating **responsive, performant, and
 ### 💭 Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 📈 Profile Views
-
-![](https://komarev.com/ghpvc/?username=puspa955&color=blueviolet&style=for-the-badge)
-
----
 
 **Thanks for stopping by! Let's build something amazing together! ✨**
 
