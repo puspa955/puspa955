@@ -1,5 +1,6 @@
   
-### 👋 Hi, I'm Puspa Limbu
+### Hi, I'm Puspa 👋 
+
 
 ### 🚀 About Me
 
