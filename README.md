@@ -1,6 +1,6 @@
   
 ### Hi, I'm Puspa 👋 
 
-Frontend Developer specializing in **React** and **Next.js**, focused on building **scalable, high-performance** web applications with clean architecture and reusable components.
+Frontend Developer & computer engineering grad. I build web apps using **React** and **Next.js**, with a focus on scalable components and maintainable code.
 
-**Thanks for stopping by! Let's build something amazing together! ✨**
+**Always learning, always building. Let’s create something awesome! ✨**
